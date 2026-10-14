@@ -1,0 +1,155 @@
+JUDGEMAN NON-COMMERCIAL SOFTWARE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Zekias Sagna-Smith
+
+1. DEFINITIONS
+
+"Software" means the Judgeman software, including its source code,
+object code, documentation, configuration, and any substantial
+derivative or modified version of the Software distributed under
+this License.
+
+"Copyright Holder" means Zekias Sagna-Smith and any party to whom
+the applicable copyright in the Software has subsequently been
+assigned.
+
+"Commercial Use" means using the Software, or a substantial portion
+of the Software, primarily for monetary compensation, commercial
+advantage, or profit.
+
+Commercial Use includes, but is not limited to:
+
+- selling the Software or a modified version of it;
+- selling access to the Software or its functionality;
+- offering the Software as a paid hosting or subscription service;
+- incorporating the Software into a product or service offered for
+  compensation;
+- monetizing a Discord server or community through the Software
+  where the Software is a material part of the paid offering;
+- licensing, sublicensing, or otherwise transferring commercial
+  rights to the Software; or
+- using a modified version of the Software as the basis of a
+  substantially similar commercial product or service.
+
+"Non-Commercial Use" means use that is not Commercial Use, including
+personal experimentation, education, research, private server use,
+and non-profit community use, provided that such use does not
+otherwise violate this License.
+
+2. GRANT OF RIGHTS
+
+Subject to the terms of this License, the Copyright Holder grants
+you a limited, non-exclusive, worldwide, royalty-free license to:
+
+- view and inspect the source code;
+- copy the Software;
+- modify the Software;
+- create derivative works based on the Software; and
+- use and distribute the Software and modified versions of the
+  Software for Non-Commercial Use.
+
+3. COMMERCIAL USE
+
+Commercial Use of the Software is NOT permitted under this License.
+
+A person or organization wishing to make Commercial Use of the
+Software must obtain separate written permission from the Copyright
+Holder.
+
+The Copyright Holder may, at their discretion, grant commercial
+permission under a separate agreement, including an agreement
+involving payment, revenue sharing, attribution requirements,
+licensing restrictions, or other conditions.
+
+4. DISTRIBUTION
+
+You may distribute the original Software or modified versions for
+Non-Commercial Use provided that:
+
+- this License is included with the distributed Software;
+- the original copyright notice is retained;
+- you do not represent the Software as your own original work; and
+- you do not remove or obscure notices identifying the Copyright
+  Holder.
+
+Distribution of the Software does not grant the recipient any right
+to make Commercial Use of the Software.
+
+5. DERIVATIVE WORKS
+
+Modifying the Software does not remove the restrictions of this
+License.
+
+A modified, forked, or substantially derivative version of the
+Software remains subject to the Commercial Use restriction when it
+contains or is substantially based upon the Software.
+
+6. NO TRADEMARK LICENSE
+
+This License does not grant permission to use the name "Judgeman,"
+the Copyright Holder's name, logos, artwork, branding, or other
+trademarks or identifying materials except as necessary to accurately
+describe an unmodified or modified version of the Software.
+
+7. THIRD-PARTY COMPONENTS
+
+This License applies only to material for which the Copyright Holder
+owns or controls the applicable rights.
+
+Third-party libraries, dependencies, APIs, assets, and other
+components included with or used by the Software remain subject to
+their respective licenses and terms.
+
+Nothing in this License is intended to restrict rights that you
+already possess under an applicable third-party license.
+
+8. COPYRIGHT
+
+The Software and its original source code are protected by applicable
+copyright law.
+
+Except for the rights expressly granted by this License, all rights
+are reserved by the Copyright Holder.
+
+9. TERMINATION
+
+The rights granted by this License automatically terminate if you
+materially violate its terms.
+
+Upon termination, you must stop exercising the rights granted by
+this License and, where legally required, cease distribution and
+use of the Software.
+
+Termination does not affect rights or remedies that may have already
+arisen from a violation of this License.
+
+10. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND,
+EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW.
+
+THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE,
+TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+11. NO IMPLIED RIGHTS
+
+No rights are granted by implication, estoppel, or otherwise.
+
+Any permission not expressly granted by this License is reserved by
+the Copyright Holder.
+
+12. COMMERCIAL PERMISSION
+
+Requests for commercial licensing or other permissions outside the
+scope of this License should be directed to the Copyright Holder.
+
+13. GOVERNING LAW
+
+This License shall be interpreted in accordance with applicable law.
+Nothing in this License is intended to waive any rights or protections
+that cannot lawfully be waived.
+
+END OF LICENSE
